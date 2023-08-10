@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+#bild{
+    border: 5px solid white;
+    width: 100%;
+}
+.text{
+    color: white;
+    text-align: center;
+}
+h1{
+    text-transform: uppercase;
+}
+.gruppe{
+    margin-top: 50px;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-family: 'Libre Baskerville', serif;
+}
